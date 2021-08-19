@@ -29,7 +29,7 @@ title: 김대근
 
 `2019-11 ~ 2020-03`
 
-<img src="![1](https://user-images.githubusercontent.com/44768193/130067699-e8ce46e5-21f2-49df-9385-d227f33e75a3.png)" width="30%">
+<img src="https://user-images.githubusercontent.com/44768193/130067699-e8ce46e5-21f2-49df-9385-d227f33e75a3.png" width="30%">
 
 대용량 데이터 전처리 및 3D모델링
 
