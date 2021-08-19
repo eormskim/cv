@@ -6,9 +6,9 @@ title: 김대근
 
 ## 김대근
 
-<a href="mailto:pikachu77769@gmail.com" style="font-weight: bold;">`Gmail(pikachu77769@gmail.com)`</a>
+<a href="mailto:eorms6599@gmail.com" style="font-weight: bold;">`Gmail(eorms6599@gmail.com)`</a>
 
-<a href="tel:010-4746-7704" style="font-weight: bold;">`Hp(010-4746-7704)`</a>
+<a href="tel:010-4422-6599" style="font-weight: bold;">`Hp(010-4422-6599)`</a>
 
 <a href="https://github.com/eormskim/" style="font-weight: bold;">`Github(https://github.com/eormskim)`</a>
 
@@ -16,10 +16,6 @@ title: 김대근
 ## Introduce
 
 `할 수 있는 일에 대해서 끈기있게 도전하며 노력하고 있습니다.`<br>
-`평소 서적이나 세미나로 학습한 기술들을 앱에 접목시켜 보고 있습니다. 이러한 경험들은 실제 업무를 하면서도 더 좋은 코드를 작성하는데 시너지효과를 낼 수 있었습니다.`<br>
-`꾸준히 개인 프로젝트를 하며 개인 앱을 배포 하고 있습니다.`<br>
-`지식을 공유하는 오픈소스 문화를 좋아합니다.`<br>
-`여러 라이브러리를 배포하면서 제 코드에 대해 이슈나 풀리퀘스트를 받았고 이를 통해 제가 놓친 부분들을 다시 한번 배울 수 있었습니다. 또한 다른 사람들이 올린 라이브러리에 대해 필요한 기능이나 버그가 있다면 풀리퀘스트를 하고 있습니다.`
 
 
 
@@ -27,37 +23,22 @@ title: 김대근
 ## Employment
 
 
-
 <br>
 
-### [1. 닥프렌즈-닥톡](https://www.doctalk.co.kr/)
+### [1. 신경회로망 확장형 DB구축 및 활성 뉴런의 3D모델링 및 프로파일링 고도화(한국뇌연구원)]
 
 `2017-02 ~ 현재`
 
 <img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/1.png?cv=2" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/2.png?cv=2" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/3.png?cv=2" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/4.png?cv=2" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/5.png?cv=2" width="15%">
 
-환자와 의사를 이어주는 주치의 메신저 플랫폼 닥톡
-
-__[닥톡(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.apple.com/kr/app/id1220724684)__
+대용량 데이터 전처리 및 3D모델링
 
 <br>
 
-`iOS 앱 개발 내용`
+`개발 내용`
 
-상담 HTML을 로드하고 상담 HTML을 저장할수 있게 UITextView 정규식을 사용하여 커스텀<br>
-[FMDB](https://github.com/ccgus/fmdb)를 사용하여 데이터 저장<br>
-[SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
-WebRTC를 제공하는 라이브러리로 비대면진료 개발<br>
-[Chart](https://github.com/danielgindi/Charts)를 이용하여 관리자의 통계 데이터 지원<br>
-[Branch](https://dashboard.branch.io/)를 이용하여 Universal Link 개발<br>
-[Socket](https://github.com/socketio/socket.io-client-swift)을 이용하여 다대다 채팅 구현<br>
-[Alamofire](https://github.com/Alamofire/Alamofire)를 사용하여 통신 구현<br>
-jenkins와 s3를 이용해 sh파일로 내부 배포 시스템(Over The Air) 구현<br>
-s3와 lambda를 활용해 배포된 파일 다운로드 사이트 구현<br>
+Dext5upload를 이용하여 대용량 업로드 지원<br>
+billboard.js를 사용하여 chart 지원<br>
 
 
 
@@ -76,7 +57,7 @@ s3와 lambda를 활용해 배포된 파일 다운로드 사이트 구현<br>
 
 내 마음을 치유해보세요, 마음주치의를 연결해드립니다!
 
-~~__[월든(https://itunes.apple.com/kr/app/id1438594199)](https://itunes.apple.com/kr/app/id1438594199)__~~
+__[월든(https://itunes.apple.com/kr/app/id1438594199)](https://itunes.apple.com/kr/app/id1438594199)__
 
 <br>
 
