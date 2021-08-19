@@ -29,7 +29,7 @@ title: 김대근
 
 `2019-11 ~ 2020-03`
 
-<img src="https://github.com/eormskim/cv/blob/master/resources/1.png" width="30%">
+<img src="../resources/1.png" width="30%">
 
 대용량 데이터 전처리 및 3D모델링
 
