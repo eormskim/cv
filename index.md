@@ -27,10 +27,8 @@ title: 김대근
 
 ### [1. 신경회로망 확장형 DB구축 및 활성 뉴런의 3D모델링 및 프로파일링 고도화(한국뇌연구원)]
 
-`2017-02 ~ 현재`
-
-<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/1.png?cv=2" width="15%">
-
+`2019-11 ~ 2020-03`
+<img src="https://github.com/eormskim/cv/blob/master/cv/resources/1.png" width="30%">
 대용량 데이터 전처리 및 3D모델링
 
 <br>
