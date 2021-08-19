@@ -118,7 +118,7 @@ SmartEditor를 사용하여 글쓰기 기능 지원<br>
 
 `2021-03 ~ 2021-05`
 
-<img src="https://github.com/eormskim/cv/blob/master/resources/5.png" width="30%">
+<img src="https://github.com/eormskim/cv/blob/c2a6ddcfaab8382fb038d166f2dec8dfe63d954b/resources/5.png" width="30%">
 
 경북도립대학교 포털 구축
 
