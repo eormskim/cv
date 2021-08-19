@@ -12,7 +12,7 @@ title: 김대근
 
 <a href="https://github.com/eormskim/" style="font-weight: bold;">`Github(https://github.com/eormskim)`</a>
 
-
+<img src=https://user-images.githubusercontent.com/44768193/130068112-a01626d9-66e6-4e1a-9aeb-0cf765dfed2d.jpg" width="30%">
 ## Introduce
 
 `할 수 있는 일에 대해서 끈기있게 도전하며 노력하고 있습니다.`<br>
@@ -51,7 +51,7 @@ billboard.js를 사용하여 chart 지원<br>
 
 `2020-05 ~ 2020-08`
 
-<img src="https://github.com/eormskim/cv/blob/master/resources/2.png" width="30%">
+<img src="https://user-images.githubusercontent.com/44768193/130068057-b774a794-b2ec-4723-bddf-01eac51b44f4.png" width="30%">
 
 UST 학생/교원 포털 시스템 입니다.
 
@@ -74,7 +74,7 @@ Vault Upload를 사용하여 파일첨부 기능 지원<br>
 
 `2020-09 ~ 2020-10`
 
-<img src="https://github.com/eormskim/cv/blob/master/resources/3.png" width="30%">
+<img src="https://user-images.githubusercontent.com/44768193/130068079-07bac8be-3f67-451d-b30c-e39e7e596178.png" width="30%">
 
 경찰청 통화그룹 관리 작업
 
@@ -95,7 +95,7 @@ TiberotbAdmin사용<br>
 
 `2020-10 ~ 2021-03`
 
-<img src="https://github.com/eormskim/cv/blob/master/resources/4.png" width="30%">
+<img src="https://user-images.githubusercontent.com/44768193/130068097-a8b934a2-badd-45d7-8659-8f50fa3550d3.png" width="30%">
 
 한서대학교 포털 구축
 
@@ -118,7 +118,7 @@ SmartEditor를 사용하여 글쓰기 기능 지원<br>
 
 `2021-03 ~ 2021-05`
 
-<img src="https://github.com/eormskim/cv/blob/c2a6ddcfaab8382fb038d166f2dec8dfe63d954b/resources/5.png" width="30%">
+<img src="https://user-images.githubusercontent.com/44768193/130068107-fad7076a-fea2-4466-b931-a190d853600b.png" width="30%">
 
 경북도립대학교 포털 구축
 
