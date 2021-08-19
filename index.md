@@ -12,7 +12,7 @@ title: 김대근
 
 <a href="https://github.com/eormskim/" style="font-weight: bold;">`Github(https://github.com/eormskim)`</a>
 
-<img src=https://user-images.githubusercontent.com/44768193/130068112-a01626d9-66e6-4e1a-9aeb-0cf765dfed2d.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/44768193/130068112-a01626d9-66e6-4e1a-9aeb-0cf765dfed2d.jpg" width="15%">
 ## Introduce
 
 `할 수 있는 일에 대해서 끈기있게 도전하며 노력하고 있습니다.`<br>
