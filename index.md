@@ -254,3 +254,4 @@ Apache ECharts library 사용<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:eorms6599@gmail.com)](mailto:eorms6599@gmail.com)
 [![Tel](https://img.shields.io/badge/%F0%9F%93%B2%F0%9F%93%9E-Tel-green?style=flat&logoColor=white&link=tel:010-4422-6599)](tel:010-4422-6599)
+[![Blog]([https://](https://eorms6599.tistory.com/)]
