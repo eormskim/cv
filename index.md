@@ -12,9 +12,9 @@ title: 김대근
 
 <a href="https://github.com/eormskim/" style="font-weight: bold;">`Github(https://github.com/eormskim)`</a>
 
-<img src="https://user-images.githubusercontent.com/44768193/130068112-a01626d9-66e6-4e1a-9aeb-0cf765dfed2d.jpg" width="15%">
+<a href="https://eorms6599.tistory.com/" style="font-weight: bold;"> `Blog(https://eorms6599.tistory.com)` </a>
 
-Blog - https://eorms6599.tistory.com/
+<img src="https://user-images.githubusercontent.com/44768193/130068112-a01626d9-66e6-4e1a-9aeb-0cf765dfed2d.jpg" width="15%">
 
 ## Introduce
 
