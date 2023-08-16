@@ -148,7 +148,7 @@ SmartEditor를 사용하여 글쓰기 기능 지원<br>
 
 `java/spring 개발`
 
-ORACLE사용<br>
+ORACLE DB사용<br>
 SmartEditor를 사용하여 글쓰기 기능 지원<br>
 Vault Upload를 사용하여 파일첨부 기능 지원<br>
 
@@ -173,7 +173,7 @@ Vault Upload를 사용하여 파일첨부 기능 지원<br>
 
 `java/spring 개발`
 
-ORACLE사용<br>
+ORACLE DB사용<br>
 SmartEditor를 사용하여 글쓰기 기능 지원<br>
 Vault Upload를 사용하여 파일첨부 기능 지원<br>
 
@@ -196,7 +196,7 @@ enview 솔루션의 기본 틀 구축 및 메인화면 생성,포틀릿 구성<b
 
 `java/spring 개발`
 
-ORACLE사용<br>
+ORACLE DB사용<br>
 각종 게시판 - CRUD 제공<br>
 메인 화면 포틀릿 연계
 
@@ -214,7 +214,7 @@ ORACLE사용<br>
 
 `java/spring 개발`
 
-ORACLE사용<br>
+ORACLE DB사용<br>
 chart.js library 사용<br>
 
 설문 생성 및 게스트, 회원참여 가능, 설문 결과 엑셀 다운로드, 설문 응답 내용 차트로 확인 가능 페이지 제공 
@@ -233,7 +233,7 @@ chart.js library 사용<br>
 
 `java/spring 개발`
 
-ORACLE, PostgreSQL사용<br>
+ORACLE DB, PostgreSQL사용<br>
 Apache ECharts library 사용<br>
 내부망 - 협력업체의 API를 활용한 스마트검색 기능, 관리자 페이지 제공, 빅데이터를 활용한 각종 차트 제공
 외부망 - 안전보건법령 스마트검색 개발
