@@ -238,7 +238,7 @@ Apache ECharts library 사용<br>
 내부망 - 협력업체의 API를 활용한 스마트검색 기능, 관리자 페이지 제공, 빅데이터를 활용한 각종 차트 제공
 외부망 - 안전보건법령 스마트검색 개발
 
-![스크린샷 2023-06-11 오후 3 24 49](https://github.com/eormskim/cv/assets/44768193/191ca14f-5e2d-429d-ab62-d290989cccc4)
+<img src="https://github.com/eormskim/cv/assets/44768193/939ee662-5ee0-4240-a6ec-b99947972ac5" width="30%">
 
 <br>
 ## Certifications
