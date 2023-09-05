@@ -38,7 +38,7 @@ title: 김대근
 
 <br>
 
-`java/spring 개발`
+`Java / Spring Framework 개발`
 
 CUBRID DB사용<br>
 Dext5upload를 이용하여 대용량 업로드 지원<br>
@@ -65,7 +65,7 @@ UST 학생/교원 포털 시스템 입니다.
 
 <br>
 
-`java/spring 개발`
+`Java / Spring Framework 개발`
 
 ORACLE DB 사용<br>
 SmartEditor를 사용하여 글쓰기 기능 지원<br>
@@ -95,7 +95,7 @@ Q&A게시판 - 공개글,비공개글 작성 가능 등<br>
 
 <br>
 
-`java/spring 개발`
+`Java / Spring Framework 개발`
 
 TiberotbAdmin사용<br>
 
@@ -118,7 +118,7 @@ TiberotbAdmin사용<br>
 
 <br>
 
-`java/spring 개발`
+`Java / Spring Framework 개발`
 
 MSSQL사용<br>
 SmartEditor를 사용하여 글쓰기 기능 지원<br>
@@ -146,7 +146,7 @@ SmartEditor를 사용하여 글쓰기 기능 지원<br>
 
 <br>
 
-`java/spring 개발`
+`Java / Spring Framework 개발`
 
 ORACLE DB사용<br>
 SmartEditor를 사용하여 글쓰기 기능 지원<br>
@@ -171,7 +171,7 @@ Vault Upload를 사용하여 파일첨부 기능 지원<br>
 
 <br>
 
-`java/spring 개발`
+`Java / Spring Framework 개발`
 
 ORACLE DB사용<br>
 SmartEditor를 사용하여 글쓰기 기능 지원<br>
@@ -194,7 +194,7 @@ enview 솔루션의 기본 틀 구축 및 메인화면 생성,포틀릿 구성<b
 
 <br>
 
-`java/spring 개발`
+`Java / Spring Framework 개발`
 
 ORACLE DB사용<br>
 각종 게시판 - CRUD 제공<br>
@@ -212,7 +212,7 @@ ORACLE DB사용<br>
 
 <br>
 
-`java/spring 개발`
+`Java / Spring Framework 개발`
 
 ORACLE DB사용<br>
 chart.js library 사용<br>
@@ -231,7 +231,7 @@ chart.js library 사용<br>
 
 <br>
 
-`java/spring 개발`
+`Java / Spring Framework 개발`
 
 ORACLE DB, PostgreSQL사용<br>
 Apache ECharts library 사용<br>
