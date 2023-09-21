@@ -41,6 +41,7 @@ title: 김대근
 `Java / Spring Framework 개발`
 
 CUBRID DB사용<br>
+Mybatis 사용<br>
 Dext5upload를 이용하여 대용량 업로드 지원<br>
 billboard.js를 사용하여 chart 지원<br>
 
@@ -68,6 +69,7 @@ UST 학생/교원 포털 시스템 입니다.
 `Java / Spring Framework 개발`
 
 ORACLE DB 사용<br>
+Mybatis 사용<br>
 SmartEditor를 사용하여 글쓰기 기능 지원<br>
 Vault Upload를 사용하여 파일첨부 기능 지원<br>
 
@@ -98,6 +100,7 @@ Q&A게시판 - 공개글,비공개글 작성 가능 등<br>
 `Java / Spring Framework 개발`
 
 TiberotbAdmin사용<br>
+Mybatis 사용<br>
 
 통화그룹 관리 - 게시판 형식으로 사용자가 요청한 리스트를승인 및 반려 기능 제공<br>
 
@@ -121,6 +124,7 @@ TiberotbAdmin사용<br>
 `Java / Spring Framework 개발`
 
 MSSQL사용<br>
+Mybatis 사용<br>
 SmartEditor를 사용하여 글쓰기 기능 지원<br>
 알림톡/SMS 지원<br>
 
@@ -149,6 +153,7 @@ SmartEditor를 사용하여 글쓰기 기능 지원<br>
 `Java / Spring Framework 개발`
 
 ORACLE DB사용<br>
+Mybatis 사용<br>
 SmartEditor를 사용하여 글쓰기 기능 지원<br>
 Vault Upload를 사용하여 파일첨부 기능 지원<br>
 
@@ -174,6 +179,7 @@ Vault Upload를 사용하여 파일첨부 기능 지원<br>
 `Java / Spring Framework 개발`
 
 ORACLE DB사용<br>
+Mybatis 사용<br>
 SmartEditor를 사용하여 글쓰기 기능 지원<br>
 Vault Upload를 사용하여 파일첨부 기능 지원<br>
 
@@ -197,6 +203,7 @@ enview 솔루션의 기본 틀 구축 및 메인화면 생성,포틀릿 구성<b
 `Java / Spring Framework 개발`
 
 ORACLE DB사용<br>
+Mybatis 사용<br>
 각종 게시판 - CRUD 제공<br>
 메인 화면 포틀릿 연계
 
@@ -215,6 +222,7 @@ ORACLE DB사용<br>
 `Java / Spring Framework 개발`
 
 ORACLE DB사용<br>
+Mybatis 사용<br>
 chart.js library 사용<br>
 
 설문 생성 및 게스트, 회원참여 가능, 설문 결과 엑셀 다운로드, 설문 응답 내용 차트로 확인 가능 페이지 제공 
@@ -234,6 +242,7 @@ chart.js library 사용<br>
 `Java / Spring Framework 개발`
 
 ORACLE DB, PostgreSQL사용<br>
+Mybatis 사용<br>
 Apache ECharts library 사용<br>
 내부망 - 협력업체의 API를 활용한 스마트검색 기능, 관리자 페이지 제공, 빅데이터를 활용한 각종 차트 제공
 외부망 - 안전보건법령 스마트검색 개발
