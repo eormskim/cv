@@ -170,6 +170,7 @@ Vault Upload를 사용하여 파일첨부 기능 지원<br>
 ### [6. 경북대학교 차세대 통합정보시스템 구축]
 
 `2021-04 ~ 2022-01`
+
 <img src="https://github.com/eormskim/cv/assets/44768193/df2b46b5-40cf-4963-bde6-bc406b9cebb9" width="30%">
 
 
