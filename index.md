@@ -198,6 +198,8 @@ enview 솔루션의 기본 틀 구축 및 메인화면 생성,포틀릿 구성<b
 
 `2022-02 ~ 2022-04`
 
+<img src="https://github.com/eormskim/cv/assets/44768193/ed21af02-e571-41a9-9ecb-bd6b3337dda9" width="30%">
+
 부산가톨릭대학교 학생 포털 구축
 
 <br>
@@ -237,6 +239,8 @@ chart.js library 사용<br>
 
 `2022-08 ~ 2023-02`
 
+<img src="https://github.com/eormskim/cv/assets/44768193/939ee662-5ee0-4240-a6ec-b99947972ac5" width="30%">
+
 안전보건공단 빅데이터 활용 업무포털 개발
 
 <br>
@@ -249,7 +253,6 @@ Apache ECharts library 사용<br>
 내부망 - 협력업체의 API를 활용한 스마트검색 기능, 관리자 페이지 제공, 빅데이터를 활용한 각종 차트 제공
 외부망 - 안전보건법령 스마트검색 개발
 
-<img src="https://github.com/eormskim/cv/assets/44768193/939ee662-5ee0-4240-a6ec-b99947972ac5" width="30%">
 
 <br>
 ## Certifications
