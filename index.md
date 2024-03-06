@@ -253,6 +253,24 @@ Apache ECharts library 사용<br>
 내부망 - 협력업체의 API를 활용한 스마트검색 기능, 관리자 페이지 제공, 빅데이터를 활용한 각종 차트 제공
 외부망 - 안전보건법령 스마트검색 개발
 
+<br>
+
+<div class="page-break"></div>
+
+### [10. 삼성꿈장학재단 전산유지보수 (프리랜서)]
+
+`2023-12 ~ 2024-03`
+
+삼성꿈장학재단 웹 포털 전산유지보수
+
+<br>
+
+`Java / Spring Framework 개발`
+
+- 내부, 외부 관리자 화면 및 사용자 화면 전체적으로 담당 
+- DB 미사용 테이블 관리 및 데이터 제거 작업
+- 리눅스 크론탭 예약 작업
+- 사용 기술  : java, jsp, javascript, jquery, mysql, ibatis, linux, jenkins
 
 <br>
 ## Certifications
@@ -268,6 +286,9 @@ Apache ECharts library 사용<br>
 
 ### 3. 위즐 (WEZLE)
 `2022-01 ~ 2023-02 플랫폼개발팀`
+
+### 4. 엘로드솔루션 프리랜서
+`2023-12 ~ 2024-03 삼성꿈장학재단 전산유지보수`
 
 ## Contact Me
 
