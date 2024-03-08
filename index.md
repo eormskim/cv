@@ -270,7 +270,7 @@ Apache ECharts library 사용<br>
 내부, 외부 관리자 화면 및 사용자 화면 전체적으로 담당<br>
 DB 미사용 테이블 관리 및 데이터 제거 작업<br>
 리눅스 크론탭 예약 작업<br>
-사용 기술  : java, jsp, javascript, jquery, mysql, ibatis, linux, jenkins
+사용 기술  : java, jsp, javascript, jquery, mysql, ibatis, linux
 
 <br>
 ## Certifications
