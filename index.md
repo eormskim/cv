@@ -294,83 +294,6 @@ db - mysql 5.7<br>
 java - 8<br>
 <br>
 <br>
-<img src="https://github.com/eormskim/cv/blob/master/%EA%B4%80%EB%A6%AC%EC%9E%90%20-%20%EA%B2%B0%EA%B3%BC1.png" width="30%">
-<img src="https://github.com/eormskim/cv/blob/master/%EA%B4%80%EB%A6%AC%EC%9E%90%20-%20%EA%B2%B0%EA%B3%BC2.png" width="30%">
-<img src="https://github.com/eormskim/cv/blob/master/%EA%B4%80%EB%A6%AC%EC%9E%90%20-%20%EA%B2%B0%EA%B3%BC3.png" width="30%">
-<img src="https://github.com/eormskim/cv/blob/master/%EA%B4%80%EB%A6%AC%EC%9E%90%20-%20%EB%AA%A9%EB%A1%9D.png" width="30%">
-<img src="https://github.com/eormskim/cv/blob/master/%EA%B4%80%EB%A6%AC%EC%9E%90%20-%20%EA%B8%B0%EB%B3%B8%EB%93%B1%EB%A1%9D.png" width="30%">
-<img src="https://github.com/eormskim/cv/blob/master/%EA%B4%80%EB%A6%AC%EC%9E%90%20-%20%EB%AC%B8%ED%95%AD%EB%93%B1%EB%A1%9D1.png" width="30%">
-<img src="https://github.com/eormskim/cv/blob/master/%EA%B4%80%EB%A6%AC%EC%9E%90%20-%20%EB%AC%B8%ED%95%AD%EB%93%B1%EB%A1%9D2.png" width="30%">
-<img src="https://github.com/eormskim/cv/blob/master/%EC%82%AC%EC%9A%A9%EC%9E%90%20-%20%EB%AA%A9%EB%A1%9D.png" width="30%">
-<img src="https://github.com/eormskim/cv/blob/master/%EC%82%AC%EC%9A%A9%EC%9E%90%20-%20%EB%B9%84%ED%9A%8C%EC%9B%90%20%EC%9D%B8%EC%A6%9D.png" width="30%">
-<img src="https://github.com/eormskim/cv/blob/master/%EC%82%AC%EC%9A%A9%EC%9E%90%20-%20%EC%A7%84%ED%96%891.png" width="30%">
-<img src="https://github.com/eormskim/cv/blob/master/%EC%82%AC%EC%9A%A9%EC%9E%90%20-%20%EC%A7%84%ED%96%892.png" width="30%">
-<img src="https://github.com/eormskim/cv/blob/master/%EC%82%AC%EC%9A%A9%EC%9E%90%20-%20%EC%A7%84%ED%96%893.png" width="30%">
-<img src="https://github.com/eormskim/cv/blob/master/%EC%82%AC%EC%9A%A9%EC%9E%90%20-%20%EA%B2%B0%EA%B3%BC.png" width="30%">
-<br>
-<br>
-## Certifications
-
-
-
-<br>
-===================================
-
-### 영진전문대학교 컴퓨터정보계열 졸업
-`2014-03 ~ 2020-02`
-
-### 학점은행제 공학사 취득
-`2024-08 ~ 2025-02`
-
-===================================
-
-### 1. 솔트에이앤비 
-`2019-10 ~ 2021-12 솔루션개발팀`
-
-### 2. 위즐 (WEZLE)
-`2022-01 ~ 2023-02 플랫폼개발팀`
-
-### 3. 삼성꿈장학재단 전산유지보수 (프리랜서br>
-
-<div class="page-break"></div>
-
-### [10. 삼성꿈장학재단 전산유지보수 (프리랜서)]
-
-`2023-12 ~ 2024-03`
-
-삼성꿈장학재단 웹 포털 전산유지보수
-
-<br>
-
-`Java / Spring Framework 개발`
-
-장학사업 비즈니스들과 서브로 같이 운영되는 프로그램들 신규 추가, 수정 및 개선 작업<br>
-이전 장학 시스템에서 사용 및 현재 사용하지 않는 미사용 테이블, 속하는 소스 제거<br>
-엑셀 파일 다운로드 속도개선, 비즈니스 로직 리팩토링<br>
-크론탭 스케쥴러 배치 수정 및 신규 추가 작업<br>
-ckEditor 신규 추가 및 공통화 작업 -> 기존 다음에디터,summernote 에디터를 ckEditor로 전환<br>
-공통 js 수정 및 신규 추가 ( 공통 파일 다운로드 ios 호환 추가 작업, 에디터  등)<br>
-gabia sms 서비스에서 naver cloud sms 서비스로 전환 개발<br>
-<br>
-신규 공통 프로그램 - 스마트폼 개발 ( 설문, 안내문, 동의서 등)<br>
-  1. 구글폼의 설문을 벤치마킹하여 섹션, 문항, 항목의 구조로 만듬<br>
-  2. 웹 모바일 지원을 위해 화면 해상도 별로 css 미디어 쿼리 스타일 적용<br>
-  3. 문항 타입은 객관식, 다중 객관식, 주관식 단답형, 주관식 장문형, 표형 객관식, 표형 체크박스, 등급(별점), 개인정보 처리 방침( 동의서 전용, CK에디터 사용), 커스텀 에디터 (CK에디터 사용)<br>
-  4. 받은 정보(객관식, 다중 객관식, 표형 객관식, 표형 체크박스, 등급(별점)) 를 바탕으로 시각화 echarts 사용 - bar Stack차트 커스텀 사용<br>
-  5. 섹션, 문항, 항목 등록 화면은 sortable js 사용으로 드래그앤 드롭 방식의 문항, 항목 위치 변경 가능하도록 구성<br>
-  6. 미리보기, 결과보기 제공, 질문에 대한 응답내역 js 페이징 동적 표출 및 상세 엑셀 다운로드 제공<br>
-  7. 기존 프로그램 설문의 신규 및 수정 작업으로 오픈하던걸 스마트폼에서 사용자가 직접 질문과 정보들을 작성해서 오픈 가능<br>
-  8. 설문 답변 제출시 프론트 및 백엔드 이중 벨리데이션 작업<br>
-  9. 회원, 비회원 설문 대상자 선택 가능<br>
-<br>
---사용 기술-- 
-파일 AWS S3<br>
-협력툴 - 노션, 깃랩<br>
-소스 배포 - 젠킨스 <br>
-db - mysql 5.7<br>
-java - 8<br>
-<br>
-<br>
 <img src="https://github.com/user-attachments/assets/ed7f5060-0b85-496b-b372-2c37c268f6a6" width="50%">
 <img src="https://github.com/user-attachments/assets/8d847ee6-4f77-4247-8698-6b3121abcc06" width="50%">
 <img src="https://github.com/user-attachments/assets/9e3113c6-aa65-45ce-a2ea-a3585ebc61bd" width="50%">
@@ -386,11 +309,9 @@ java - 8<br>
 <img src="https://github.com/user-attachments/assets/468fb97d-7a33-4328-b755-ddc144d6f527" width="50%">
 <br>
 <br>
+
 ## Certifications
 
-
-
-<br>
 ===================================
 
 ### 영진전문대학교 컴퓨터정보계열 졸업
