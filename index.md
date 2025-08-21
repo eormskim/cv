@@ -293,7 +293,7 @@ gabia sms 서비스에서 naver cloud sms 서비스로 전환 개발<br>
 db - mysql 5.7<br>
 java - 8<br>
 <br>
-<a href="https://www.sdream.or.kr/m/mypageCommFormList" style="font-weight: bold;">`삼성꿈장학재단 운영 화면`</a>
+<a href="https://www.sdream.or.kr/m/mypageCommFormList" style="font-weight: bold;">`삼성꿈장학재단 폼 운영 화면`</a>
 <br>
 <img src="https://github.com/user-attachments/assets/ed7f5060-0b85-496b-b372-2c37c268f6a6" width="50%">
 <img src="https://github.com/user-attachments/assets/8d847ee6-4f77-4247-8698-6b3121abcc06" width="50%">
