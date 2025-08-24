@@ -14,7 +14,8 @@ title: 김대근
 
 <a href="https://eorms6599.tistory.com/" style="font-weight: bold;display:none;"> `Blog(https://eorms6599.tistory.com)` </a>
 
-<img src="https://user-images.githubusercontent.com/44768193/130068112-a01626d9-66e6-4e1a-9aeb-0cf765dfed2d.jpg" width="15%">
+<img src="https://user-images.githubusercontent.com/44768193/130068112-a01626d9-66e6-4e1a-9aeb-0cf765dfed2d.jpg" width="15%" style="display:none;">
+<img src="https://github.com/user-attachments/assets/b1515b5a-bac5-49ed-b2d8-c135d19ab8c1" width="15%">
 
 ## Introduce
 
