@@ -286,6 +286,7 @@ gabia sms 서비스에서 naver cloud sms 서비스로 전환 개발<br>
 7.기존 프로그램 설문의 신규 및 수정 작업으로 오픈하던걸 스마트폼에서 사용자가 직접 질문과 정보들을 작성해서 오픈 가능<br>
 8.설문 답변 제출시 프론트 및 백엔드 이중 벨리데이션 작업<br>
 9.회원, 비회원 설문 대상자 선택 가능<br>
+10.객관식 문항타입에 선착순 기능 제공(슬롯테이블 방식 사용)<br>
 <br>
 --사용 기술-- 
 파일 AWS S3<br>
@@ -293,23 +294,6 @@ gabia sms 서비스에서 naver cloud sms 서비스로 전환 개발<br>
 소스 배포 - 젠킨스 <br>
 db - mysql 5.7<br>
 java - 8<br>
-<br>
-<a href="https://www.sdream.or.kr/m/mypageCommFormList" style="font-weight: bold;">`삼성꿈장학재단 폼 운영 화면`</a>
-<br>
-<img src="https://github.com/user-attachments/assets/ed7f5060-0b85-496b-b372-2c37c268f6a6" width="100%">
-<img src="https://github.com/user-attachments/assets/8d847ee6-4f77-4247-8698-6b3121abcc06" width="100%">
-<img src="https://github.com/user-attachments/assets/9e3113c6-aa65-45ce-a2ea-a3585ebc61bd" width="100%">
-<img src="https://github.com/user-attachments/assets/9c5feacd-877d-44d2-861c-32611cf186ba" width="100%">
-<img src="https://github.com/user-attachments/assets/d6623326-6c04-46b7-ac9c-9caf567fac9c" width="100%">
-<img src="https://github.com/user-attachments/assets/0b425b1d-4234-484b-8b37-5f4fb1e005b1" width="100%">
-<img src="https://github.com/user-attachments/assets/3fe20f66-c367-4385-94cd-607ca9495a70" width="100%">
-<img src="https://github.com/user-attachments/assets/0e5949c5-ff9b-44bc-b575-b50820b148c5" width="100%">
-<img src="https://github.com/user-attachments/assets/006ef792-379c-4c8e-967e-42c57a1415fb" width="100%">
-<img src="https://github.com/user-attachments/assets/d643dc8c-0c0b-408b-ae87-852dbb5fc2ef" width="100%">
-<img src="https://github.com/user-attachments/assets/50653151-56b7-4961-ba21-4db1249edfd7" width="100%">
-<img src="https://github.com/user-attachments/assets/df615de6-0f79-4f9c-90a1-a2abeeb73e51" width="100%">
-<img src="https://github.com/user-attachments/assets/468fb97d-7a33-4328-b755-ddc144d6f527" width="100%">
-<br>
 <br>
 
 ## Certifications
